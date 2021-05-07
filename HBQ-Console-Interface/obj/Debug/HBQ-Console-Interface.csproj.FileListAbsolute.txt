@@ -1,0 +1,9 @@
+D:\HBQ\Console_Interface\HBQ-Console-Interface\HBQ-Console-Interface\HBQ-Console-Interface\bin\Debug\HBQ-Console-Interface.exe.config
+D:\HBQ\Console_Interface\HBQ-Console-Interface\HBQ-Console-Interface\HBQ-Console-Interface\bin\Debug\HBQ-Console-Interface.exe
+D:\HBQ\Console_Interface\HBQ-Console-Interface\HBQ-Console-Interface\HBQ-Console-Interface\bin\Debug\HBQ-Console-Interface.pdb
+D:\HBQ\Console_Interface\HBQ-Console-Interface\HBQ-Console-Interface\HBQ-Console-Interface\obj\Debug\HBQ-Console-Interface.csprojAssemblyReference.cache
+D:\HBQ\Console_Interface\HBQ-Console-Interface\HBQ-Console-Interface\HBQ-Console-Interface\obj\Debug\HBQ_Console_Interface.Properties.Resources.resources
+D:\HBQ\Console_Interface\HBQ-Console-Interface\HBQ-Console-Interface\HBQ-Console-Interface\obj\Debug\HBQ-Console-Interface.csproj.GenerateResource.cache
+D:\HBQ\Console_Interface\HBQ-Console-Interface\HBQ-Console-Interface\HBQ-Console-Interface\obj\Debug\HBQ-Console-Interface.csproj.CoreCompileInputs.cache
+D:\HBQ\Console_Interface\HBQ-Console-Interface\HBQ-Console-Interface\HBQ-Console-Interface\obj\Debug\HBQ-Console-Interface.exe
+D:\HBQ\Console_Interface\HBQ-Console-Interface\HBQ-Console-Interface\HBQ-Console-Interface\obj\Debug\HBQ-Console-Interface.pdb

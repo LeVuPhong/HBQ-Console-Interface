@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HBQ-Console-Interface", "HBQ-Console-Interface\HBQ-Console-Interface.csproj", "{0D1FABDB-D95A-497D-98DF-22D6C830276B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D1FABDB-D95A-497D-98DF-22D6C830276B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D1FABDB-D95A-497D-98DF-22D6C830276B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D1FABDB-D95A-497D-98DF-22D6C830276B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D1FABDB-D95A-497D-98DF-22D6C830276B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {893ED9C2-5F49-40EE-9ED7-3264BC8A2CA5}
+	EndGlobalSection
+EndGlobal
